@@ -1,0 +1,15 @@
+{
+  "name": "Vremea",
+  "description": "Simple weather app",
+  "launch_path": "http://davidbanu.github.io/Vremea/",
+  "icons": {
+    "512": "/img/vremea_icon_512.png",
+    "128": "/img/rsz_vremea_icon_512.png"
+  },
+  "developer": {
+    "name": "David Banu",
+    "url": "http://davidbanu.com/"
+  },
+  "default_locale": "en",
+  "chrome": { "navigation": true }
+}
