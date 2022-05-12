@@ -1,4 +1,4 @@
 # Vremea
 
 
-App who shows your weather using your IP location
+App that shows the weather in your area using your IP location
